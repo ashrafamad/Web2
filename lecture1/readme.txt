@@ -1,3 +1,11 @@
+
+So far, you have created a simple maven project and added the following information
+GroupId = edu.najah
+Artefact = najah
+packaging = war 
+
+after that, do the following: 
+
 1. copy the content of pom.xml file in this site into the pom.xml file in your project
 2. create a folder called WEB-INF under src/main/webapp
 3. put the mouse on the newley created folder, which we have called WEB-INF in the preious step, and do right click to create a file called web.xml
