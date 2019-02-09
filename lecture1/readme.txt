@@ -1,5 +1,5 @@
 
-Create a simple maven project and added the following information
+Create a simple maven project adding the following information
 GroupId = edu.najah
 Artefact = najah
 packaging = war 
